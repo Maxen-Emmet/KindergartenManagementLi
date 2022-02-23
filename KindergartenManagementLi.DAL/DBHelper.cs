@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 public class DBHelper
 {
     #region 数据库连接字符串
-    private static string connectionString = @"Data Source=LIPENG\SQLEXPRESS;Initial Catalog=MobileManager;Persist Security Info=True;User ID=sa;Password=sa";
+    private static string connectionString = "Data Source=139.196.240.76;Initial Catalog=sysKindergartenManagementLi;Persist Security Info=True;User ID=sa;Password=Admin123";
 
     #endregion
 
