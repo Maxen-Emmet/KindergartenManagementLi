@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xinxin\\Source\\Repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj": {}
+    "C:\\Users\\xinxin\\source\\repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xinxin\\Source\\Repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj": {
+    "C:\\Users\\xinxin\\source\\repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xinxin\\Source\\Repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\xinxin\\source\\repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj",
         "projectName": "KindergartenManagementLi.DAL",
-        "projectPath": "C:\\Users\\xinxin\\Source\\Repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj",
+        "projectPath": "C:\\Users\\xinxin\\source\\repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj",
         "packagesPath": "C:\\Users\\xinxin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xinxin\\Source\\Repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\obj\\",
+        "outputPath": "C:\\Users\\xinxin\\source\\repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xinxin\\AppData\\Roaming\\NuGet\\NuGet.Config",
