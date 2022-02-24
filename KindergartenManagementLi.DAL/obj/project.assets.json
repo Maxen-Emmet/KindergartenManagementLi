@@ -454,19 +454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\xinxin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\KindergartenManagementLi\\Project\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\xinxin\\Source\\Repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj",
       "projectName": "KindergartenManagementLi.DAL",
-      "projectPath": "F:\\KindergartenManagementLi\\Project\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\KindergartenManagementLi\\Project\\KindergartenManagementLi.DAL\\obj\\",
+      "projectPath": "C:\\Users\\xinxin\\Source\\Repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\KindergartenManagementLi.DAL.csproj",
+      "packagesPath": "C:\\Users\\xinxin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\xinxin\\Source\\Repos\\KindergartenManagementLi\\KindergartenManagementLi.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\xinxin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
