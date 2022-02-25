@@ -1,0 +1,12 @@
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\bin\Debug\net6.0\KindergartenManagementLi.DAL.deps.json
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\bin\Debug\net6.0\KindergartenManagementLi.DAL.dll
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\bin\Debug\net6.0\KindergartenManagementLi.DAL.pdb
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\obj\Debug\net6.0\KindergartenManagementLi.DAL.csproj.AssemblyReference.cache
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\obj\Debug\net6.0\KindergartenManagementLi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\obj\Debug\net6.0\KindergartenManagementLi.DAL.AssemblyInfoInputs.cache
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\obj\Debug\net6.0\KindergartenManagementLi.DAL.AssemblyInfo.cs
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\obj\Debug\net6.0\KindergartenManagementLi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\obj\Debug\net6.0\KindergartenManagementLi.DAL.dll
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\obj\Debug\net6.0\refint\KindergartenManagementLi.DAL.dll
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\obj\Debug\net6.0\KindergartenManagementLi.DAL.pdb
+C:\Users\xinxin\source\repos\KindergartenManagementLi\KindergartenManagementLi.DAL\obj\Debug\net6.0\ref\KindergartenManagementLi.DAL.dll
